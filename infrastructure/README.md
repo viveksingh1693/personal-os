@@ -1,1 +1,0 @@
-Docker, Postgres, Redis, Ollama.
